@@ -33,7 +33,7 @@ Para mais informações acesse [Aula 01: Fluxogramas.](https://www.notion.so/cai
 
    ```mermaid
    flowchart TD
-      A["CS >>>>>> Valorant"]
+      A["CS >>>>>> >>>>>>>>>>>>> Valorant"]
    ```
 
 3. Crie um fluxograma para calcular a soma de dois números fornecidos pelo usuário.
